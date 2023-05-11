@@ -11,3 +11,9 @@ data_ingestion_config:
   ingested_test_dir: test
 
 
+data_validation_config:
+  schema_dir: config
+  schema_file_name: schema.yaml
+
+
+git 
